@@ -7,6 +7,6 @@ namespace Jhonson18022023.Entidades
 {
     public class Datos
     {
-        
+        public String? datos {get; set;}
     }
 }
